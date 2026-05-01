@@ -37,4 +37,4 @@ O projeto segue a seguinte sequência lógica baseada nos manuscritos:
 *Figura 2: Detalhamento do algoritmo de decomposição de notas.*
  
 ---
-[Voltar ao início](https://github.com/Lusca2803/portifolio-lucas-henrique-roque-cruz)
+[Voltar ao início](https://github.com/Lusca2803/portfolio-lucas-henrique-roque-cruz)
