@@ -35,4 +35,5 @@ Durante o desenvolvimento, foram validados comportamentos específicos do Python
 * **Lógica de Parada:** A compreensão de que no `range(início, fim)`, o valor final é exclusivo, exigindo o ajuste manual para cobrir todo o período desejado.
  
 ---
-[Voltar ao início](https://github.com/LucasCruz/portifolio-lucas-henrique-roque-cruz)
+
+[Voltar ao início](https://github.com/Lusca2803/portifolio-lucas-henrique-roque-cruz)
