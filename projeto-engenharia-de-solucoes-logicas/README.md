@@ -35,4 +35,4 @@ O sistema opera seguindo um fluxo estruturado de decisão:
 *Figura 3: Pseudocódigo da validação de dados e critérios de temperatura e batimento.*
  
 ---
-[Voltar ao início](https://github.com/Lusca2803/portifolio-lucas-henrique-roque-cruz)
+[Voltar ao início](https://github.com/Lusca2803/portfolio-lucas-henrique-roque-cruz)
