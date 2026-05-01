@@ -36,4 +36,4 @@ Durante o desenvolvimento, foram validados comportamentos específicos do Python
  
 ---
 
-[Voltar ao início](https://github.com/Lusca2803/portifolio-lucas-henrique-roque-cruz)
+[Voltar ao início](https://github.com/Lusca2803/portfolio-lucas-henrique-roque-cruz)
