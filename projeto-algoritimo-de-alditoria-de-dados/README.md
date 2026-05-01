@@ -25,4 +25,4 @@ O sistema opera baseado em três pilares de verificação:
    ```bash
    python projeto_algoritimo_de_alditoria_de_dados.py
 
-[Voltar ao início](https://github.com/Lusca2803/portifolio-lucas-henrique-roque-cruz)
+[Voltar ao início](https://github.com/Lusca2803/portfolio-lucas-henrique-roque-cruz)
