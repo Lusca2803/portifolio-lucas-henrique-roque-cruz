@@ -50,6 +50,7 @@ Atualmente cursando o 1º período de Analise e Desenvolvimento de Sistemas na U
 | **Modularização** | Arquitetura de um software de forma unplugged, priorizando a lógica sobre a sintaxe. | [Ver Projeto](./projeto-modularizacao/) |
 | **Traduzindo Lógica para Python** | Este repositório contém exercícios práticos de tradução de lógica de programação. O objetivo é demonstrar a transição entre estruturas de algoritmos em português (pseudocódigo) e a implementação funcional em Python. | [Ver Projeto](./projeto-traduzindo-logica-para-python/) |
 | **Engenharia de Contexto e Lógica Física** | Aplicar os conceitos de Listas, Estruturas de Repetição (for, while), Estruturas de Decisão (if/else, match-case), Funções e Operadores Complexos na resolução de problemas do mundo real, exigindo coleta de dados manual e mapeamento espacial. | [Ver Projeto](./projeto-engenharia-de-contexto-e-logica-fisica/) |
+| **Desenhando Emojis com Dados** | Manipular listas, tuplas e dicionários usando loops aninhados para criar e modificar a "arte" de um emoji. | [Ver Projeto](./projeto-desenhando-emojis-com-dados/) |
  
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
