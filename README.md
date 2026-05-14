@@ -1,5 +1,5 @@
 # Lucas Henrique Roque Cruz
-> Estudante de Análise e Desenvolvimento de Sistemas Universidade Cidade de São Paulo (UNICID).
+> Estudante de Análise e Desenvolvimento de Sistemas na Universidade Cidade de São Paulo (UNICID).
  
 ---
  
@@ -11,7 +11,7 @@
 ---
  
 ### 👨‍💻 Sobre
-Atualmente cursando o 1º período de Analise e Desenvolvimento de Sistemas na Universidade Cidade de São Paulo (UNICID). Sou apaixonado por resolver problemas através da tecnologia e possuo foco em Desenvolvimento Backend.
+Atualmente cursando o 1º período de Análise e Desenvolvimento de Sistemas na Universidade Cidade de São Paulo (UNICID). Sou apaixonado por resolver problemas através da tecnologia e possuo foco em Desenvolvimento Backend.
  
 * **Habilidades Técnicas:** Python, n8n.
 * **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva e pensamento crítico.
