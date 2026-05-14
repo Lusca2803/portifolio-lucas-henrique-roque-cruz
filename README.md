@@ -1,5 +1,5 @@
 # Lucas Henrique Roque Cruz
-> Estudante de Analise e Desenvolvimento de Sistemas Universidade Cidade de São Paulo (UNICID).
+> Estudante de Análise e Desenvolvimento de Sistemas Universidade Cidade de São Paulo (UNICID).
  
 ---
  
@@ -15,7 +15,7 @@ Atualmente cursando o 1º período de Analise e Desenvolvimento de Sistemas na U
  
 * **Habilidades Técnicas:** Python, n8n.
 * **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva e pensamento crítico.
-* **Experiência/Projetos Relevantes:** Atuei em [Projeto de Iniciação Científica/Estágio] onde desenvolvi [resultado principal].
+* **Experiência/Projetos Relevantes:** Atualmente focado em projetos acadêmicos de automação e auditoria de dados com Python. Possuo experiência anterior com gestão de operações em e-commerce e logística.
  
 ---
  
@@ -64,9 +64,4 @@ Abaixo, a organização deste repositório para facilitar a navegação:
  
 - `📄 README.md`: Este arquivo com a visão geral do meu portfólio e trajetória acadêmica.
 - `📂 /cv/`: Contém meu currículo em formato PDF para visualização e download.
-- `📂 /projeto-algoritimo-de-alditoria-de-dados/`: Pastas individuais contendo o código-fonte, exercícios e documentação de cada projeto listado acima.
-- `📂 /projeto-engenharia-de-solucoes-logicas/`: Pastas individuais contendo o código-fonte, exercícios e documentação de cada projeto listado acima.
-- `📂 /projeto-modularizacao/`: Pastas individuais contendo o código-fonte, exercícios e documentação de cada projeto listado acima.
-- `📂 /projeto-traduzindo-logica-para-python/`: Pastas individuais contendo o código-fonte, exercícios e documentação de cada projeto listado acima.
-- `📂 /projeto-engenharia-de-contexto-e-logica-fisica/`: Pastas individuais contendo o código-fonte, exercícios e documentação de cada projeto listado acima.
-- `📂 /projeto-desenhando-emojis-com-dados/`: Pastas individuais contendo o código-fonte, exercícios e documentação de cada projeto listado acima.
+- `📂 /projeto-*/`: Pastas individuais contendo o código-fonte, exercícios e documentação de cada projeto listado acima.
