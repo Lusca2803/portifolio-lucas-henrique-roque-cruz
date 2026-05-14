@@ -51,6 +51,7 @@ Atualmente cursando o 1º período de Análise e Desenvolvimento de Sistemas na 
 | **Traduzindo Lógica para Python** | Este repositório contém exercícios práticos de tradução de lógica de programação. O objetivo é demonstrar a transição entre estruturas de algoritmos em português (pseudocódigo) e a implementação funcional em Python. | [Ver Projeto](./projeto-traduzindo-logica-para-python/) |
 | **Engenharia de Contexto e Lógica Física** | Aplicar os conceitos de Listas, Estruturas de Repetição (for, while), Estruturas de Decisão (if/else, match-case), Funções e Operadores Complexos na resolução de problemas do mundo real, exigindo coleta de dados manual e mapeamento espacial. | [Ver Projeto](./projeto-engenharia-de-contexto-e-logica-fisica/) |
 | **Desenhando Emojis com Dados** | Manipular listas, tuplas e dicionários usando loops aninhados para criar e modificar a "arte" de um emoji. | [Ver Projeto](./projeto-desenhando-emojis-com-dados/) |
+| **Sistema de Auditoria de Recursos Corporativos** | Este código tem como objetivo calcular o orçamento total de uma empresa a partir de uma estrutura hierárquica de departamentos, utilizando recursão, decorators, *args e **kwargs para tornar o processamento flexível, dinâmico e auditável. | [Ver Projeto](./projeto-sistema-de-auditoria-de-recursos-corporativos/) |
  
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
