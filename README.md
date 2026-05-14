@@ -62,5 +62,11 @@ Atualmente cursando o 1º período de Analise e Desenvolvimento de Sistemas na U
 ### 🏗 Estrutura do Repositório
 Abaixo, a organização deste repositório para facilitar a navegação:
  
-- `root/`: Arquivo de apresentação principal.
-- `/projeto-nome/`: Pasta contendo o código-fonte, documentação e o README específico do projeto acadêmico.
+- `📄 README.md`: Este arquivo com a visão geral do meu portfólio e trajetória acadêmica.
+- `📂 /cv/`: Contém meu currículo em formato PDF para visualização e download.
+- `📂 /projeto-algoritimo-de-alditoria-de-dados/`: Pastas individuais contendo o código-fonte, exercícios e documentação de cada projeto listado acima.
+- `📂 /projeto-engenharia-de-solucoes-logicas/`: Pastas individuais contendo o código-fonte, exercícios e documentação de cada projeto listado acima.
+- `📂 /projeto-modularizacao/`: Pastas individuais contendo o código-fonte, exercícios e documentação de cada projeto listado acima.
+- `📂 /projeto-traduzindo-logica-para-python/`: Pastas individuais contendo o código-fonte, exercícios e documentação de cada projeto listado acima.
+- `📂 /projeto-engenharia-de-contexto-e-logica-fisica/`: Pastas individuais contendo o código-fonte, exercícios e documentação de cada projeto listado acima.
+- `📂 /projeto-desenhando-emojis-com-dados/`: Pastas individuais contendo o código-fonte, exercícios e documentação de cada projeto listado acima.
