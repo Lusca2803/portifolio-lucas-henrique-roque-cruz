@@ -47,7 +47,7 @@ Busco oportunidade de estágio para aplicar meus conhecimentos em desenvolviment
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | **Algoritimo de Auditoria de Dados** | Programa que analisa a consistência de dados financeiros, utilizando escopo global/local para parâmetros de segurança e lógica condicional para detecção de anomalias. | [Ver Projeto](./projeto-algoritimo-de-alditoria-de-dados/) |
-| **Engenharia de Soluções Logicas** | Solução algorítmica para um problema complexo do mundo real, partindo da abstração visual até a validação lógica.. | [Ver Projeto](./projeto-engenharia-de-solucoes-logicas/) |
+| **Engenharia de Soluções Logicas** | Solução algorítmica para um problema complexo do mundo real, partindo da abstração visual até a validação lógica. | [Ver Projeto](./projeto-engenharia-de-solucoes-logicas/) |
 | **Modularização** | Arquitetura de um software de forma unplugged, priorizando a lógica sobre a sintaxe. | [Ver Projeto](./projeto-modularizacao/) |
 | **Traduzindo Lógica para Python** | Este repositório contém exercícios práticos de tradução de lógica de programação. O objetivo é demonstrar a transição entre estruturas de algoritmos em português (pseudocódigo) e a implementação funcional em Python. | [Ver Projeto](./projeto-traduzindo-logica-para-python/) |
 | **Engenharia de Contexto e Lógica Física** | Aplicado os conceitos de Listas, Estruturas de Repetição (for, while), Estruturas de Decisão (if/else, match-case), Funções e Operadores Complexos na resolução de problemas do mundo real, exigindo coleta de dados manual e mapeamento espacial. | [Ver Projeto](./projeto-engenharia-de-contexto-e-logica-fisica/) |
