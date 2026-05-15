@@ -11,10 +11,10 @@
 ---
  
 ### 👨‍💻 Sobre
-Atualmente cursando o 1º período de Análise e Desenvolvimento de Sistemas na Universidade Cidade de São Paulo (UNICID). Sou apaixonado por resolver problemas através da tecnologia e possuo foco em Desenvolvimento Backend.
+Atualmente cursando o 1º período de Análise e Desenvolvimento de Sistemas na Universidade Cidade de São Paulo (UNICID). Possuo base sólida em lógica de negócios e operações digitais. Possuo experiência avançada na gestão de fluxos de dados via sistemas ERP (Bling e Tiny), faturamento automatizado e integração de plataformas. Busco oportunidade de estágio para aplicar conhecimentos em desenvolvimento, bancos de dados e análise de sistemas, trazendo uma visão estratégica de quem já atuou na ponta final da operação de e-commerce.
  
-* **Habilidades Técnicas:** Python, n8n.
-* **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva e pensamento crítico.
+* **Habilidades Técnicas:** Python, n8n, Figma.
+* **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva, pensamento crítico, responsabilidade, proatividade e empenho.
 * **Experiência/Projetos Relevantes:** Atualmente focado em projetos acadêmicos de automação e auditoria de dados com Python. Possuo experiência anterior com gestão de operações em e-commerce e logística.
  
 ---
