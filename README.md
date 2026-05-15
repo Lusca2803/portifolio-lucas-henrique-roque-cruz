@@ -11,10 +11,11 @@
 ---
  
 ### 👨‍💻 Sobre
-Atualmente cursando o 1º período de Análise e Desenvolvimento de Sistemas na Universidade Cidade de São Paulo (UNICID). Possuo base sólida em lógica de negócios e operações digitais. Possuo experiência avançada na gestão de fluxos de dados via sistemas ERP (Bling e Tiny), faturamento automatizado e integração de plataformas. Busco oportunidade de estágio para aplicar conhecimentos em desenvolvimento, bancos de dados e análise de sistemas, trazendo uma visão estratégica de quem já atuou na ponta final da operação de e-commerce.
+Atualmente cursando o 1º período de Análise e Desenvolvimento de Sistemas na Universidade Cidade de São Paulo (UNICID), tendo iniciado oficialmente a graduação em março de 2026. Possuo uma base sólida em lógica de negócios e operações digitais, construída através de uma trajetória profissional focada em eficiência operacional. Tenho experiência avançada na gestão de fluxos de dados via sistemas ERP, com domínio técnico das ferramentas Bling e Tiny. Minha atuação envolveu desde o faturamento automatizado e a emissão de notas fiscais até a sincronização de estoques e integração complexa de plataformas de marketplace como Mercado Livre, Shopee e Magalu.
+Busco oportunidade de estágio para aplicar meus conhecimentos em desenvolvimento de software, bancos de dados e análise de sistemas. Trago comigo a visão estratégica de quem já atuou na ponta final da operação de e-commerce e logística, compreendendo a importância de sistemas robustos e sem falhas para o sucesso do negócio.
  
 * **Habilidades Técnicas:** Python, n8n, Figma.
-* **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva, pensamento crítico, responsabilidade, proatividade e empenho.
+* **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva, pensamento crítico, responsabilidade, proatividade e alto empenho em aprender novas tecnologias.
 * **Experiência/Projetos Relevantes:** Atualmente focado em projetos acadêmicos de automação e auditoria de dados com Python. Possuo experiência anterior com gestão de operações em e-commerce e logística.
  
 ---
